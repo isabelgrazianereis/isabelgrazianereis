@@ -1,4 +1,5 @@
 ## Hi there 👊
+I am currently doing a course of Neps Academy to learn how to program with Git.
 
 <!--
 **isabelgrazianereis/isabelgrazianereis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
